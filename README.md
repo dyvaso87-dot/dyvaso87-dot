@@ -10,22 +10,33 @@
 
 ---
 
-## ✦ About Me
+<h2 align="center">✦ About Me ✦</h2>
 
-```java
-public class Dylan {
+<p align="center">
+  Software Engineering student interested in
+  <b>Software Development</b>, <b>Cybersecurity</b>,
+  <b>Data</b> and <b>Artificial Intelligence</b>.
+</p>
 
-    String career = "Software Engineering";
+<p align="center">
+  I enjoy understanding how technology works, solving problems
+  and continuously learning new technologies. I'm especially interested
+  in building reliable and secure software while exploring how
+  cybersecurity, data and AI can be integrated into modern solutions.
+</p>
 
-    String[] interests = {
-        "Cybersecurity",
-        "Data",
-        "Artificial Intelligence"
-    };
+<br>
 
-    String mindset = "Learn • Build • Improve";
-}
-```
+<div align="center">
+
+🎓 Software Engineering Student  
+💻 Software & Backend Development  
+🔐 Exploring Cybersecurity & Secure Development  
+📊 Data & Artificial Intelligence  
+🧠 Analytical Thinking & Problem Solving  
+🚀 Always Learning & Building  
+
+</div>
 <h2 align="center">⚡ Tech Stack ⚡</h2>
 
 <h3>Languages</h3>
