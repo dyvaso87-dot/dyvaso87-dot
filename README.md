@@ -25,3 +25,29 @@ public class Dylan {
 
     String mindset = "Learn • Build • Improve";
 }
+```
+<h2 align="center">⚡ Tech Stack ⚡</h2>
+
+<h3>Languages</h3>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=D4AF37)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=D4AF37)
+![C%23](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=D4AF37)
+![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=D4AF37)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
+
+<h3>Frameworks & Technologies</h3>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=D4AF37)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=D4AF37)
+
+<h3>Databases</h3>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=D4AF37)
+
+<h3>Tools</h3>
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=D4AF37)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=D4AF37)
