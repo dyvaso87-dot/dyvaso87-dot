@@ -62,3 +62,17 @@
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=D4AF37)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=D4AF37)
+
+<h2 align="center">✦ Certifications ✦</h2>
+
+<p align="center">
+  <img src="./assets/certificates/datacamp-algorithms.png" 
+       alt="Data Structures and Algorithms in Python - DataCamp"
+       width="220"/>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="./assets/certificates/aws-cloud-foundations.png" 
+       alt="AWS Academy Cloud Foundations"
+       width="220"/>
+</p>
